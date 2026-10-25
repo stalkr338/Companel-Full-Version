@@ -256,4 +256,4 @@ This repository serves as the official landing page for Companel. The software i
 **Get the most recent version of Companel today!**
 
 ---
-**Last updated:** 2026-10-25 14:39:16 UTC
+**Last updated:** 2026-10-25 17:57:06 UTC
